@@ -1,0 +1,13 @@
+Broadexec documentation 
+
+v 0.1
+
+First time config
+  - just run broadexec without any arguments, it will guide you through simple settings to get you going
+  
+First time run FIXME add template hostfile and script as a demo for first run
+  - just run broadexec without any arguments, it will guide you through simple selection
+    of your hostfiles and scripts if you have any
+  - NOTE: when using menu selection, before run you will see the whole command line that you can use 
+    to skip selection next time you want to run the same script on the same hostlist
+  - NOTE: menu selections are very limited, to utilize full potential see [-h] or [--help] for help
